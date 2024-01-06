@@ -1,6 +1,3 @@
 # KU-SW-Academy
-# ML
-# DeepLearning
-# LLM
-# Database
-# AI
+AI / ML / DeepLearning / LLM / Database
+2023.12 Completion
